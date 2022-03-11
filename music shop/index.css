@@ -1,0 +1,58 @@
+body{
+
+  text-align: center;  
+}
+
+
+
+.mainhead{
+
+
+    text-align: center;
+    color: red;
+
+}
+
+a{
+
+text-align: center;
+
+text-decoration-line: none;
+
+}
+
+h2{
+
+color: purple;
+
+}
+
+ul{
+
+    list-style-position: inside;
+
+
+}
+
+.images{
+
+    list-style-position: inside;
+
+font-weight:bolder ;
+
+}
+
+
+.color{
+
+
+
+    color: darkkhaki;
+}
+
+.left{
+
+text-align: left;
+
+
+}
